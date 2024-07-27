@@ -10,7 +10,7 @@ Summary Statistics: Get summary statistics of the dataset for quick insights.
 Data Filters: Filter the dataset by city and vertical to focus on specific segments.
 
 Visualizations: View top 8 records in various visualizations:
-Investment Amount by Round
-Number of Startups by City
-Investment Amount by Vertical
+Investment Amount by Round,
+Number of Startups by City,
+Investment Amount by Vertical,
 Number of Startups by Vertical
