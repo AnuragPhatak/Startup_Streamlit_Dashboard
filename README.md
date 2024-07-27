@@ -6,7 +6,9 @@ Features
 Data Display: View the full dataset of startups, including details such as vertical, subvertical, city, investors, round, and amount.
 
 Summary Statistics: Get summary statistics of the dataset for quick insights.
+
 Data Filters: Filter the dataset by city and vertical to focus on specific segments.
+
 Visualizations: View top 8 records in various visualizations:
 Investment Amount by Round
 Number of Startups by City
